@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Корзина"
+        android:id="@+id/delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="ifRoom"/>
+    <item android:title="Загрузка"
+        android:id="@+id/load"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="ifRoom"/>
+    <item android:title="1 метр"
+        android:id="@+id/metr1" />
+    <item android:title="1.5 метра"
+        android:id="@+id/metr1.5" />
+    <item android:title="2 метра"
+        android:id="@+id/metr2" />
+    <item android:title="2.5 метра"
+        android:id="@+id/metr2_5"/>
+    <item android:title="3 метра"
+        android:id="@+id/metr3" />
+    <item android:title="3.5 метра"
+        android:id="@+id/metr3_5" />
+    <item android:title="4 метра"
+        android:id="@+id/metr4" />
+    <item android:title="4.5 метра"
+        android:id="@+id/metr4_5" />
+    <item android:title="5 метров"
+        android:id="@+id/metr5" />
+    <item android:title="5.5 метров"
+        android:id="@+id/metr5_5" />
+    <item android:title="6 метров"
+        android:id="@+id/metr6" />
+    <item android:title="6.5 метров"
+        android:id="@+id/metr6_5" />
+    <item android:title="7 метров"
+        android:id="@+id/metr7" />
+    <item android:title="7.5 метров"
+        android:id="@+id/metr7_5" />
+    <item android:title="8 метров"
+        android:id="@+id/metr8" />
+    <item android:title="8.5 метров"
+        android:id="@+id/metr8.5" />
+    <item android:title="9 метров"
+        android:id="@+id/metr9" />
+
+</menu>
